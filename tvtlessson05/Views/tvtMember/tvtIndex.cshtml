@@ -1,0 +1,29 @@
+﻿@model IEnumerable<tvtlessson05.Models.DataModels.tvtMember>;
+@{
+    ViewData["Title"] = "tvtIndex";
+}
+
+<h1>Danh sách member</h1>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Member Id</th>
+            <th>Member UserName</th>
+            <th>Member Password</th>
+            <th>Member FullName</th>
+            <th>Member Emaill</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var tvtItem in Model) 
+        {
+            <tr>
+                <td>@tvtItem.TvtMemberId</td>
+                <td>@tvtItem.TvtUserName</td>
+                <td>@tvtItem.TvtFullName</td>
+                <td>@tvtItem.TvtEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
