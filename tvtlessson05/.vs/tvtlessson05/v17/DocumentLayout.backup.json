@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlessson05\\controllers\\tvthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|solutionrelative:controllers\\tvthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlessson05\\models\\datamodels\\tvtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|solutionrelative:models\\datamodels\\tvtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlessson05\\views\\tvthome\\tvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|solutionrelative:views\\tvthome\\tvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlessson05\\views\\shared\\_tvtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|solutionrelative:views\\shared\\_tvtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlessson05\\views\\shared\\_tvtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|solutionrelative:views\\shared\\_tvtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlessson05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlessson05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C589F74-36B0-4440-B1D9-8A5AD5DEC9E1}|tvtlessson05.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:08:28.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tvtMember.cs",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Models\\DataModels\\tvtMember.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\tvtMember.cs",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Models\\DataModels\\tvtMember.cs",
+              "RelativeToolTip": "Models\\DataModels\\tvtMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:04:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_tvtNavBar.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\Shared\\_tvtNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_tvtNavBar.cshtml",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\Shared\\_tvtNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_tvtNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T04:03:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tvtHomeController.cs",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Controllers\\tvtHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\tvtHomeController.cs",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Controllers\\tvtHomeController.cs",
+              "RelativeToolTip": "Controllers\\tvtHomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:34:14.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T04:08:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_tvtLayout.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\Shared\\_tvtLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_tvtLayout.cshtml",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\Shared\\_tvtLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_tvtLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T01:36:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tvtIndex.cshtml",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\tvtHome\\tvtIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\tvtHome\\tvtIndex.cshtml",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlessson05\\Views\\tvtHome\\tvtIndex.cshtml",
+              "RelativeToolTip": "Views\\tvtHome\\tvtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:35:11.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
