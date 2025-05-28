@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using tvtlap06.Models;
 
-namespace tvtlap06.Controllers
+namespace tvtLab06.Controllers
 {
     public class tvtHomeController : Controller
     {

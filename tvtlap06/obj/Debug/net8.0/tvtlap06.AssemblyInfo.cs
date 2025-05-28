@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tvtlap06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8cc122527f05a2b11ebbbfdf5ab25591602bdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7975fa31ccc752917d186f4e0643cf481f21b2c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("tvtlap06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tvtlap06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
