@@ -1,0 +1,59 @@
+﻿@model tvtlessone07.Models.tvtEmployee
+
+@{
+    ViewData["Title"] = "sua thon tin nhan vien";
+}
+
+<h1>sua thong tin nhan vien</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="tvtEdit" asp-route-id="@Model.tvtId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="tvtId" class="control-label"></label>
+                <input asp-for="tvtId" class="form-control" />
+                <span asp-validation-for="tvtId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtName" class="control-label"></label>
+                <input asp-for="tvtName" class="form-control" />
+                <span asp-validation-for="tvtName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtBirthDay" class="control-label"></label>
+                <input asp-for="tvtBirthDay" class="form-control" />
+                <span asp-validation-for="tvtBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtEmail" class="control-label"></label>
+                <input asp-for="tvtEmail" class="form-control" />
+                <span asp-validation-for="tvtEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtPhone" class="control-label"></label>
+                <input asp-for="tvtPhone" class="form-control" />
+                <span asp-validation-for="tvtPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtSalary" class="control-label"></label>
+                <input asp-for="tvtSalary" class="form-control" />
+                <span asp-validation-for="tvtSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="tvtStatus" /> @Html.DisplayNameFor(model => model.tvtStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="tvtIndex">Back to List</a>
+</div>
+

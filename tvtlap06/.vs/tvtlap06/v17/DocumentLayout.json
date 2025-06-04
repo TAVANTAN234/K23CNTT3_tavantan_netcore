@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B7B7541-7530-42D4-BAE4-A1CD24DDCA36}|tvtlap06.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlap06\\controllers\\tvtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B7B7541-7530-42D4-BAE4-A1CD24DDCA36}|tvtlap06.csproj|solutionrelative:controllers\\tvtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B7541-7530-42D4-BAE4-A1CD24DDCA36}|tvtlap06.csproj|c:\\k23cntt3p2\\k23cntt3_tavantan_netcore\\tvtlap06\\models\\tvtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B7541-7530-42D4-BAE4-A1CD24DDCA36}|tvtlap06.csproj|solutionrelative:models\\tvtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tvtEmployee.cs",
+              "DocumentMoniker": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlap06\\Models\\tvtEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\tvtEmployee.cs",
+              "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlap06\\Models\\tvtEmployee.cs",
+              "RelativeToolTip": "Models\\tvtEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:32:42.65Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Controllers\\tvtEmployeecontroller.cs",
               "ToolTip": "C:\\K23CNTT3p2\\K23CNTT3_tavantan_netcore\\tvtlap06\\Controllers\\tvtEmployeecontroller.cs",
               "RelativeToolTip": "Controllers\\tvtEmployeecontroller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T03:24:29.753Z",
               "EditorCaption": ""
