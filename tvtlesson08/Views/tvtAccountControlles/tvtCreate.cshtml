@@ -1,0 +1,75 @@
+﻿@model tvtlesson08.Models.tvtAccount
+
+@{
+    ViewData["Title"] = "tvtCreate";
+}
+
+<h1>tvtCreate</h1>
+
+<h4>tvtAccount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="tvtCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="tvtId" class="control-label"></label>
+                <input asp-for="tvtId" class="form-control" />
+                <span asp-validation-for="tvtId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtFullName" class="control-label"></label>
+                <input asp-for="tvtFullName" class="form-control" />
+                <span asp-validation-for="tvtFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtEmail" class="control-label"></label>
+                <input asp-for="tvtEmail" class="form-control" />
+                <span asp-validation-for="tvtEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtPhone" class="control-label"></label>
+                <input asp-for="tvtPhone" class="form-control" />
+                <span asp-validation-for="tvtPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtAddress" class="control-label"></label>
+                <input asp-for="tvtAddress" class="form-control" />
+                <span asp-validation-for="tvtAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtAvatar" class="control-label"></label>
+                <input asp-for="tvtAvatar" class="form-control" />
+                <span asp-validation-for="tvtAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtBirthday" class="control-label"></label>
+                <input asp-for="tvtBirthday" class="form-control" />
+                <span asp-validation-for="tvtBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtGender" class="control-label"></label>
+                <input asp-for="tvtGender" class="form-control" />
+                <span asp-validation-for="tvtGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtPassword" class="control-label"></label>
+                <input asp-for="tvtPassword" class="form-control" />
+                <span asp-validation-for="tvtPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tvtFacebook" class="control-label"></label>
+                <input asp-for="tvtFacebook" class="form-control" />
+                <span asp-validation-for="tvtFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
